@@ -1,0 +1,17 @@
+# KiCad temporary / local files
+*.kicad_prl
+*.lck
+*.bak
+
+# KiCad backup files
+*-backups/
+
+# Local history
+.history/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
